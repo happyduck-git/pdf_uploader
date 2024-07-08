@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PdfUploadExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e97ea39e2d6dd57bc09b602ebea066784e0eaf0")]
 [assembly: System.Reflection.AssemblyProductAttribute("PdfUploadExample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PdfUploadExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
